@@ -40,3 +40,4 @@ print(frutas) #imprimir la lista sin el ultimo elemento
 #Recorrer la lista con un buclae for
 for fruta in frutas: #para cada fruta en la lista frutas
     print("me gusta comer" ,fruta) #imprimir la fruta
+#

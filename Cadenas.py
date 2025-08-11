@@ -1,4 +1,3 @@
-# Cadenas de texto
 name = "DIEGO FERNANDO ZARATE PINEDA"
 surname = "SENA"
 
